@@ -13,18 +13,17 @@ Username: admin
 Password: admin
 
 If local connection is missing then you need to create a new Connection.
-*) Connect
-*) Create Connection
-**) Settings
-```
-name: localhost
-scheme: http
-host: localhost
-port: 57777
-path: /jolokia
-```
-**) Save
-**) Connect to remote server
+
+Goto Connect -> Create Connection -> Settings:
+
+	name: localhost  
+	scheme: http  
+	host: localhost  
+	port: 57777  
+	path: /jolokia
+
+Save -> Connect to remote server.  
+
 
 ### Example URL for local JVM connection
 http://localhost:57777/hawtio/index.html#/jvm/connect
