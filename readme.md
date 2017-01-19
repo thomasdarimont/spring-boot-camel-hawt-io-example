@@ -26,4 +26,5 @@ path: /jolokia^
 2.2) Save
 2.3) Connect to remote server
 
- 
+### Example url for local JVM connection
+http://localhost:57777/hawtio/index.html#/jvm/connect
