@@ -21,7 +21,7 @@ name: localhost
 scheme: http
 host: localhost
 port: 57777
-path: /jolokia^
+path: /jolokia
 
 2.2) Save
 2.3) Connect to remote server
