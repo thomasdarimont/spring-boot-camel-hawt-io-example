@@ -1,2 +1,5 @@
 server:
   port: 57777
+spring:
+  activemq:
+    broker-url: tcp://localhost:61616
